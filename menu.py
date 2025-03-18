@@ -9,7 +9,3 @@ bienvenido usuari@ presione
 
 """
 opc=input("ingresa tu opcion wacho: ")
-
-menu_uno = verificacion_prima, primos_gemelos
-
-menu_dos = verificacion_prima

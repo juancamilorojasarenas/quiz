@@ -16,14 +16,3 @@ def primos_gemelos(a,b):
             if not i/j and i-j==2:
                     print(i,j)
 
-
-
-        
-
-
-
-        
-
-
-    
-

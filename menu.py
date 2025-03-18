@@ -1,9 +1,15 @@
+from utilidades import*
 menu_principal="""
-****************************
+*****************************************
 bienvenido usuari@ presione
-1. para opcion 1
-2. para opcion 2
-3. para opcion 3
-4. para salir
-****************************
+1. para encontrar pares de primos gemelos
+2. para encontar numeros primos palindromicos
+3. para salir del programa
+*****************************************
+
 """
+opc=input("ingresa tu opcion wacho: ")
+
+menu_uno = verificacion_prima, primos_gemelos
+
+menu_dos = verificacion_prima

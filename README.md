@@ -19,7 +19,8 @@ Incompleto.
 ### Lenguajes usados
 Python.
 ### Tecnologías usadas
-Linux.
+Linux,
+Visual Studio Code.
 ### Contacto
 - Correo electrónico: juancarojasar@gmail.com
 - Discord: jc122520072259

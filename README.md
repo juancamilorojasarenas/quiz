@@ -15,7 +15,7 @@ En un rango determinado, busca números primos gemelos y números palindrómicos
 - Al abrir el archivo main.py y ejecutarlo, aparecerá un menú con diversas opciones.
 - Según la opción ingresada, el programa ejecutará una serie de pasos.
 ### Estado del proyecto
-En desarrollo.
+Completo.
 ### Lenguajes usados
 Python.
 ### Tecnologías usadas
